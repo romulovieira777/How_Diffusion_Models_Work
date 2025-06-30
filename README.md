@@ -4,6 +4,7 @@
 
 - Introduction
 - Intuition
-- [Sampling]()
+- [Sampling](https://github.com/romulovieira777/How_Diffusion_Models_Work/tree/main/01_Sampling)
+- [Neural Network]()
 
 Link to course: [DeepLearning](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
