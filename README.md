@@ -3,7 +3,7 @@
 ### 💻 Topics covered during the course were: 🚀
 
 - Introduction
-
-- Conclusion
+- Intuition
+- [Sampling]()
 
 Link to course: [DeepLearning](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
